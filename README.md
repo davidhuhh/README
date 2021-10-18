@@ -1,5 +1,13 @@
-- eyo, i’m @davidhuhh
-- likes: coding and that's it
-- learning web design
-- no projects because all are dead
+## Hello
+ - Hello! I am davidhuh, a developer.
+ 
+## Contact
 
+- Discord: davidhuh#1337 
+- Twitter : [@davidhuhhh](https://twitter.com/davidhuhhh) 
+- Email: davidhuh123nu@gmail.com
+
+## What I can do:
+ - 🌏 Web Design
+ - 🤖 Discord Bots (JavaScript)
+ - 🎮 Game Modding (FNF, etc.)
