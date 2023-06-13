@@ -10,4 +10,4 @@
 ## What I can do:
  - 🌏 Web Design
  - 🤖 Discord Bots (JavaScript)
- - 🎮 Game Modding (FNF, etc.)
+ - 🎮 Game Modding
