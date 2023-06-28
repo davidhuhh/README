@@ -1,13 +1,14 @@
 ## Hello
- - Hello! I am davidhuh, a developer.
+ - Hello! I am davidhuh, a cool guy.
  
 ## Contact
 
-- Discord: davidhuh#1337 
+- Discord: davidhuh
 - Twitter : [@davidhuhhh](https://twitter.com/davidhuhhh) 
-- Email: davidhuh123nu@gmail.com
+- Email: davidhuhguh@gmail.com
 
 ## What I can do:
  - 🌏 Web Design
  - 🤖 Discord Bots (JavaScript)
+ - 🔥 Code in multiple programming languages
  - 🎮 Game Modding
